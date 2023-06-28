@@ -1,2 +1,3 @@
 bin/secrets.txt
 .idea/
+src/__pycache__/
