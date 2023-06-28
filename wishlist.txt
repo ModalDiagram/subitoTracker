@@ -1,7 +1,5 @@
 10 32:fire emblem three houses
-10 32:zelda botw
-10 32:zelda breath of the wild
-10 32:pokemon arceus
+20 37:zelda tears of the kingdom
+20 40:zelda totk
 10 25:sonic switch
 10 25:luigi mansion
-10 100:macchina
