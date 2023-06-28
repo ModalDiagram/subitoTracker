@@ -17,12 +17,12 @@ la fornisce all'utente che può decidere se cercarne un'altra.
 
 # Flag -a
 Se la flag -a è fornita (per automatic) invece di dare l'offerta all'utente manda un messaggio con bot di Telegram
-(token e chat_id da specificare nel file) bin/secrets.txt nel formato:
-token
-chat_id
-(ad esempio:
-1232345909:asdkfjkl
-3405231
+(token e chat_id da specificare nel file) bin/secrets.txt nel formato:  
+token  
+chat_id  
+(ad esempio:  
+1232345909:asdkfjkl  
+3405231  
 ).
 Inoltre, la salva come file json per essere ripresa dopo attraverso gli script in bin/.
 
